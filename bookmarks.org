@@ -1,9 +1,78 @@
-+TITLE: bookmarks
-#+STARTUP: overview
-* mystuff
-   :PROPERTIES:
-   :CUSTOM_ID: mystuff
-   :add_date: 1455570596
-   :last_modified: 1481227079
-   :END:
+* quick
+** [[https://feedly.com/i/my][Feedly]]
+** [[https://player.fm/scatcher/subs/all>][player.fm]]
+** [[https://web.whatsapp.com/][WhatsApp]]
+** [[https://music.youtube.com/][YouTube Music]]
+** [[https://mycroftproject.com][Mycroft Project: Search Engine Plugins - Firefox IE Chrome]]
+** [[https://stract.com/][Stract]]
+** [[https://open.spotify.com/user/123059001/playlists][Spotify – Web Player]]
+
+* Home Network
+** [[http://192.168.0.23:3000/][Homepage]]
+** [[https://192.168.0.52/screens/dashboard.html#/MainDashboard][AP-dugs]]
+** [[https://192.168.0.250/ui/#/login][Log in - VMware ESXi]]
+** [[https://localhost:9072/#/overview/dashboard][AOMEI Cyber Backup Console]]
+** [[https://192.168.0.200:8006/#v1:0:18:4:11:=contentIso:::8::=directories][protectli - Proxmox Virtual Environment]]
+** [[https://192.168.0.55:8006/#v1:0:=node%2Fpve:4:11::::::][pve - Proxmox Virtual Environment]]
+** [[https://192.168.0.50:8007/#pbsDataStores][pisalon - Proxmox Backup Server]]
+** [[https://brw4c82a9807728/][Brother MFC-L2860DWE]]
+** [[https://espace-client.orange.fr/equipements/9098316675/11001/internet/identifiants][Vos identifiants - Espace client Sosh]]
+** [[https://192.168.0.1/][pfSense]]
+** [[http://192.168.0.21/#/login][openmediavault]]
+** [[http://192.168.0.25/admin][Pi-hole]]
+** [[http://192.168.0.50:3000/?orgId=1][Grafana]]
+** [[http://192.168.0.50/zabbix/zabbix.php?name=&ip=&dns=&port=&status=-1&evaltype=0&tags%5B0%5D%5Btag%5D=&tags%5B0%5D%5Boperator%5D=0&tags%5B0%5D%5Bvalue%5D=&maintenance_status=1&filter_name=&filter_show_counter=0&filter_custom_time=0&sort=name&sortorder=ASC&show_suppressed=0&action=host.view][piZabbix: Hosts]]
+** [[http://192.168.0.50:9090/graph][Prometheus]]
+** [[https://dashboard.uptimerobot.com/monitors][Monitors | UptimeRobot]]
+** [[https://my.noip.com/dynamic-dns][My No-IP]]
+** [[https://ntfydug.ddns.net:9443/#!/home][Portainer on ntfydug]]
+** [[http://ntfydug.ddns.net/][ntfy web]]
+** [[https://hetrixtools.com/dashboard/uptime-monitors/][Uptime Monitors - HetrixTools]]
+** [[https://ntfydug.ddns.net:5006/budget][Actual]]
+** [[http://ntfydug.ddns.net:5800/][RcloneBrowser]]
+** [[https://ntfydug.ddns.net:5232/.web/][Radicale Web Interface]]
+** [[http://192.168.0.23:8010/dashboard][Paperless-ngx]]
+** [[https://192.168.0.23:9443/][Portainer | UbuntuSvm]]
+** [[http://192.168.0.23:6789/][NZBGet]]
+** [[http://192.168.0.23:9091/transmission/web/][Transmission Web Interface]]
+** [[http://192.168.0.23:7878/][Radarr]]
+** [[http://192.168.0.23:8989/][Sonarr]]
+** [[http://192.168.0.23:9696/][Prowlarr]]
+** [[http://192.168.0.23:52051/index.html][My Media for Alexa - Console]]
+** [[http://192.168.0.17/#music][Kodi]]
+** [[https://play.geforcenow.com/mall/][Experience GeForce NOW Gaming Anywhere &amp; Anytime]]
+** [[https://dnsleaktest.com/][DNS leak test]]
+** [[http://ipleak.net/][IP/DNS Detect - What is your IP, what is your DNS, what informations you send to websites.]]
+** [[http://beta.speedtest.net/][Speedtest.net]]
+** [[http://downforeveryoneorjustme.com/][Down For Everyone Or Just Me -&gt; Check if your website is down or up?]]
+** [[https://jsonformatter.org/yaml-validator][Best YAML Validator Online]]
+** [[https://www.nzb.su/quicklook/?days=7&type=pm][NZB.su - Top Movies (7 days)]]
+** [[https://rarbg.to/torrents.php?category=48;44;45&search=&order=seeders&by=DESC][RARBG HD]]
+** [[https://rarbg.to/torrents.php?category=48;44;45&search=%22Sci+Fi%22&order=seeders&by=DESC][RarBG SciFi]]
+** [[https://www.blu-ray.com/movies/movies.php?genre=Horror][Horror Blu-ray Movies and Releases]]
+** [[http://fitgirl-repacks.site/][FitGirl Repacks -]]
+** [[https://elamigos.site/][ElAmigos official site]]
+** [[https://www.thundernews.com/members.php][ThunderNews]]
+** [[https://usenet.farm/action/auth/login?uuid=3vUCAE%2B2blyjPJPYQok5Lj6%2BDG5%2FyZEJW1tv9LKjQy8wTB92yAJ%2FxZLNUeTgL0rn7%2Faq7zwr5k0pS2PoYJVzgUOxaF%2BI%2BjeVt7vrGiLuyrOJtDz%2FuOHra0t63cBMq44Dj3YS%2Ff75cYZx6NrjXsQtDwXYFEld1kRtt1sbnpXWuOjdmxxfTtYIz4YgfFh3xn%2BDXg%3D%3D][Usenet.Farm]]
+** [[http://pcgamingwiki.com/wiki/Home][PCGamingWiki PCGW - an encyclopedia of PC game fixes]]
+** [[http://pi-salon.local:4050/][MagicMirror²]]
+
+
+
+* Email, clouds
+
+* Pro
+
+* Perso
+
+* Music
+
+* Info
+
+* HW
+
+* Lisa
+
+* other
+
 ** [[http://127.0.0.1:8188][comfy-ui]]
