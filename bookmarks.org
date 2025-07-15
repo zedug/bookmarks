@@ -1,0 +1,9 @@
++TITLE: bookmarks
+#+STARTUP: overview
+* mystuff
+   :PROPERTIES:
+   :CUSTOM_ID: mystuff
+   :add_date: 1455570596
+   :last_modified: 1481227079
+   :END:
+** [[http://127.0.0.1:8188][comfy-ui]]
