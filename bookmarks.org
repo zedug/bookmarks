@@ -1,3 +1,6 @@
+quick - home network - email&cloud - pro - perso - music - info - hw - lisa - other
+
+
 * quick
 *** [[https://feedly.com/i/my][Feedly]]
 *** [[https://player.fm/scatcher/subs/all>][player.fm]]
@@ -40,7 +43,7 @@
 *** [[http://192.168.0.23:9696/][Prowlarr]]
 *** [[http://192.168.0.23:52051/index.html][My Media for Alexa - Console]]
 *** [[http://192.168.0.17/#music][Kodi]]
-*** [[https://play.geforcenow.com/mall/][Experience GeForce NOW Gaming Anywhere &amp; Anytime]]
+*** [[https://play.geforcenow.com/mall/][Experience GeForce NOW Gaming Anywhere & Anytime]]
 *** [[https://dnsleaktest.com/][DNS leak test]]
 *** [[http://ipleak.net/][IP/DNS Detect - What is your IP, what is your DNS, what informations you send to websites.]]
 *** [[http://beta.speedtest.net/][Speedtest.net]]
@@ -76,10 +79,10 @@
 *** [[https://app.reclaim.ai/" ][Reclaim – A smart friend for your calendar]]
 *** [[https://www.equateplus.com/EquatePlusParticipant2/start?csrfpId=MkdrkPDm8gtfFxX7zKFXNADb" ][EquatePlus - Actions STM]]
 ** Capadyn
-*** [[https://mail.ionos.fr/" ][Webmail | IONOS by 1&amp;1]]
-*** [[https://www.ionos.com/help/email/general-topics/settings-for-your-email-programs-imap-pop3/" ][Settings For Your Email Programs (IMAP &amp; POP3) - IONOS Help]]
+*** [[https://mail.ionos.fr/" ][Webmail | IONOS by 1&1]]
+*** [[https://www.ionos.com/help/email/general-topics/settings-for-your-email-programs-imap-pop3/" ][Settings For Your Email Programs (IMAP & POP3) - IONOS Help]]
 *** [[https://app.payfit.com/" ][PayFit]]
-*** [[https://authentification.harmonie-mutuelle.fr/auth/realms/adherents/protocol/openid-connect/auth?client_id=hmd_extranet_adherent_front&redirect_uri=https%3A%2F%2Fharmonie-et-moi.fr%2Fidentification%3Fredirect%3D%252Faccueil&state=0ee53cb1-968b-45c8-9540-bc70dcef9cbb&response_mode=query&response_type=code&scope=openid&nonce=640e793d-de86-4280-93d9-6cc7cc8c349b" ][Harmonie &amp; moi]]
+*** [[https://authentification.harmonie-mutuelle.fr/auth/realms/adherents/protocol/openid-connect/auth?client_id=hmd_extranet_adherent_front&redirect_uri=https%3A%2F%2Fharmonie-et-moi.fr%2Fidentification%3Fredirect%3D%252Faccueil&state=0ee53cb1-968b-45c8-9540-bc70dcef9cbb&response_mode=query&response_type=code&scope=openid&nonce=640e793d-de86-4280-93d9-6cc7cc8c349b" ][Harmonie & moi]]
 ** CS Group
 *** [[https://join3.thalesgroup.com/en-US/meeting/3080102071?passcode=718423" ][UCC conference]]
 *** [[https://outlook.office.com/mail/" ][Mail - DUGOIS Laurent - Outlook]]
@@ -168,7 +171,7 @@
 *** [[https://remoteok.com/?location=region_EU" ][Remote Jobs in Programming, Design, Sales and more #OpenSalaries]]
 *** [[https://remotive.com/remote-jobs/customer-support?locations=France" ][Remote Customer Service Jobs | Remotive.com]]
 *** [[https://jobspresso.co/" ][Jobspresso]]
-*** [[https://workew.com/" ][Workew - Remote Work &amp; Digital Nomad Jobs]]
+*** [[https://workew.com/" ][Workew - Remote Work & Digital Nomad Jobs]]
 *** [[https://weworkremotely.com/remote-full-time-jobs#job-listings" ][We Work Remotely | Remote Full-Time Jobs]]
 *** [[https://www.welcometothejungle.com/fr/pages/emploi-teletravail" ][Emploi en télétravail - Offres CDI, CDD - recrutement]]
 *** [[https://passionteletravail.fr/ou-trouver-des-offres-demploi-en-teletravail/" ][19 sites où trouver des offres d&#39;emploi en télétravail (2024) - Passion Télétravail]]
@@ -188,7 +191,7 @@
 *** [[https://www.canva.com/fr_fr/modeles/EAD7S8JigM4-bleu-et-blanc-moderne-photo-ingenierie-cv/" ][Bleu et Blanc Moderne Photo Ingénierie CV - Modèles de Canva]]
 ** apec
 *** [[https://www.apec.fr/tous-nos-metiers/etudes-recherche-et-developpement/directeur-etudes-recherche-et-developpement-1.html" ][Directeur études, recherche et développement | Apec]]
-*** [[https://www.apec.fr/tous-nos-metiers/etudes-recherche-et-developpement/chef-de-projet-rd.html" ][Chef de projet R&amp;D | Apec]]
+*** [[https://www.apec.fr/tous-nos-metiers/etudes-recherche-et-developpement/chef-de-projet-rd.html" ][Chef de projet R&D | Apec]]
 *** [[https://www.apec.fr/tous-nos-metiers/etudes-recherche-et-developpement/responsable-de-bureau-detudes.html" ][Responsable de bureau d’études | Apec]]
 *** [[https://www.regionsjob.com/conseils/rediger-lettre-motivation-facultatif.html?utm_source=sudouestjob&utm_medium=email&utm_campaign=newsletter_candidat&utm_content=edito" ][Pourquoi rédiger une lettre de motivation... même lorsque l&#39;offre indique que c’est facultatif - RegionsJob]]
 *** [[https://www.carriere-info.fr/" ][Carriere-info : plus de 2 500 offres d&#39;emploi en informatique disponibles]]
@@ -202,7 +205,7 @@
 *** [[https://www.apec.fr/candidat/mon-espace/matching.html#/" ][matching | Apec]]
 *** [[https://www.cadreo.com/candidat/profil.html#recherche" ][Profil - Cadreo]]
 *** [[https://fr.indeed.com/" ][Indeed.com]]
-*** [[https://www.nextgenrh.fr/" ][Cabinet de recrutement Bordeaux &amp; chasseur de tête]]
+*** [[https://www.nextgenrh.fr/" ][Cabinet de recrutement Bordeaux & chasseur de tête]]
 *** [[https://www.valtus.fr/" ][Leader mondial du management de transition - Valtus]]
 *** [[https://www.hellowork.com/fr-fr/medias/decrocher-job-meilleur-2025.html" ][Envie de décrocher enfin un job ? Voici le meilleur CV pour 2025 ! | Hellowork]]
 *** [[https://remotive.com/remote-jobs/project-management/vp-of-engineering-delivery-lead-2023358" ][[Hiring] VP of Engineering (Delivery Lead) @Didask]]
